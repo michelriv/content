@@ -63,7 +63,8 @@ Debugging back-end code can be split into 4 main groups:
 
 ### How to know which type is my current bug?
 
-Debugging becomes more challenging as your application grows into more pieces that connect. This is why it's imperative to constantly run your code on almost every change (hot reload) instead of waiting until you have made many changes. Remembering the latest change you made to your code before the bug showed up gives you a lot of leverage.
+"Debugging becomes more challenging as your application grows into more pieces that connect. This is why it's imperative to constantly run your code on almost every change (hot reload) instead of waiting until you have made many changes. Remembering the latest change you made to your code before the bug showed up gives you a lot of leverage."
+
 
 > 😎 Pro tip: Generally, what was the line of code that you last updated: Was it in the front end? Or the back end?
 
